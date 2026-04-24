@@ -1,0 +1,17 @@
+{
+  "name": "Theme Settings",
+  "settings": [
+    {
+      "type": "text",
+      "id": "site_name",
+      "label": "Site Name",
+      "default": "My Shopify Store"
+    },
+    {
+      "type": "color",
+      "id": "primary_color",
+      "label": "Primary Color",
+      "default": "#333333"
+    }
+  ]
+}
